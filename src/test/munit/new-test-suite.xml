@@ -14,7 +14,7 @@
 		</munit:execution>
 		<munit:validation >
 			<munit-tools:assert-equals doc:name="Assert equals" doc:id="77be667c-fa4d-42c4-81c5-0cda740569c0" actual="#[payload]" expected='#[{
-	"status":"ok"
+	"status":"ok!"
 }]'/>
 		</munit:validation>
 	</munit:test>
