@@ -31,7 +31,7 @@
 			      <muleVersion>${app.runtime}</muleVersion>
 			      <username>${username}</username>
 			      <password>${password}</password>
-			      <applicationName>gocd-testapp</applicationName>
+			      <applicationName>${appName}</applicationName>
 			      <environment>${environment}</environment>
 			      <region>${region}</region>
 			      <workers>${workers}</workers>

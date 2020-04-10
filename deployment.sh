@@ -6,4 +6,8 @@ mvn deploy \
 -Dpassword=$password \
 -Denvironment=$environment \
 -Denv=$env \
+-DappName=$appName \
+-DworkerType=$workerType \
+-Dworkers=$workers \
+-Dregion=$region \
 -DskipTests
